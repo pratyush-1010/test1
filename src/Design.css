@@ -1,0 +1,68 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&display=swap');
+.indiv{
+    margin-left: 32%;
+    
+}
+.inps{
+    border: 1px solid black;
+    padding: 5px;
+    margin-top:7px;
+    width: 150%;
+    margin-left: 5px;
+    font-family: 'Roboto', sans-serif;
+
+}
+.inps:focus{
+    border: 1px solid red !important;
+    outline: none;
+}
+label{
+font-size: 20px;
+margin: 7px 0;
+color: red;
+font-family: 'Roboto', sans-serif;
+
+}
+.check{
+    margin: 0px 5px ;
+    font-size: 17px;
+    color: black;
+    font-family: 'Roboto', sans-serif;
+
+}
+.but{
+    font-family: 'Roboto', sans-serif;
+
+    padding: 5px;
+    width: 100px;
+    margin: 15px !important;
+    outline: none;
+    border: none;
+    background-color:blue;
+    color: white;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: all .3s ease-in-out;
+    
+}
+.but:hover{
+    box-shadow: 1px 6px 17px -5px rgba(0,0,0,0.75);
+}
+option{
+    font-size: 17px;
+    font-family: 'Roboto', sans-serif;
+
+}
+.outdiv{
+    background-color: beige;
+}
+tr{
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-family: 'Libre Baskerville', serif;
+}
